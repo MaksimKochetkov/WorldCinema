@@ -13,6 +13,12 @@
         android:theme="@style/Theme.AU_WorldCinema"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false"
             android:label="@string/title_activity_main2"
